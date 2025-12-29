@@ -7,7 +7,7 @@
 ---
 
 ##  Technologies & Tools
-- **Backend:** PHP, MySQL, REST APIs
+- **Backend:** PHP, NodeJS/Express, MySQL, Redis/BullMQ
 - **Frontend:** JavaScript , HTML, CSS  
 - **Tools:** Git/GitHub, Postman, Figma  
 - **Programming:** C, Java  
